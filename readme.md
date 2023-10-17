@@ -11,4 +11,5 @@
 
 ### Requirements
 - task 1 to 5 must be done using git bash
+- task 4 is coded in python
 - tasks 6 to 7 are done inside the github website
